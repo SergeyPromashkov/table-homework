@@ -1,0 +1,74 @@
+td{
+    border: 1px solid;
+}
+
+
+.wtb1{
+    border-collapse: collapse;
+    width: 75%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.h200{
+    height: 200px;
+}
+
+td{
+    width: 33.333%;
+    height: 50px;
+}
+
+
+.w33{
+    width: 33.333%;
+    height: 50px;
+}
+
+
+
+
+
+/* table 2 */
+
+
+.container {
+    width: min(100% - 40px, 1340px);
+    margin-inline: auto;
+    }
+
+td{
+    border: 1px solid;
+    height: 50px;
+}
+
+
+.wtb2{
+    width: 90%;
+    height: 50px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.daugtb1{
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto; 
+}
+
+.w258{
+    width: 33.333%;
+    height: 200px;
+}
+
+.w40{
+    width: 40%;
+}
+
+.w60{
+    width: 60%;
+}
+
+.w4{
+    width: 28%;
+}
